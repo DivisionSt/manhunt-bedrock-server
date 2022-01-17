@@ -1,3 +1,8 @@
+# Note: work in progress
+## all copy below this line is from the upstream repo and has not been updated yet...
+
+----
+
 # Minecraft Manhunt (Bedrock)
 **https://mcpedl.com/minecraft-manhunt/ - Add-on link**
 
